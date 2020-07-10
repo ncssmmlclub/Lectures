@@ -1,6 +1,7 @@
 # Lectures
-Machine Learning Club Lectures NCSSM 2019-2020
+Machine Learning Club Lectures NCSSM 2020-2021
 
+Week 0: Data Processing
 Week 1: Single Label Image Classification  
 Week 2: Introduce and begin working on Project 1  
 Week 3: Building Datasets, Stochaistic Gradient Descent  
